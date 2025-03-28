@@ -2,7 +2,7 @@
 
 ## Portfolio Dashboard
 
-See the full dashboard here - [App link](
+See the full dashboard here - [App link]
 
 #### Home Page 
 
