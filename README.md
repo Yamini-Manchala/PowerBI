@@ -9,6 +9,5 @@ See the full dashboard here - [App link](https://app.powerbi.com/reportEmbed?rep
 ![Home page](screenshot_of_powerbi.jpg)
 
 #### Products Page with India (clickable filters and bookmarks) 
-
 ![Products](Screenshot 2025-03-28 141451.jpg)
 
