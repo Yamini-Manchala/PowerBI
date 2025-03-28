@@ -1,4 +1,4 @@
 # PowerBI
 
 ## Portfolio Dashboard
-!(screenshot_of_powerbi.png)
+![awesome chocolate dashboard](screenshot_of_powerbi.png)
