@@ -10,4 +10,4 @@ See the full dashboard here - [App link](https://app.powerbi.com/reportEmbed?rep
 
 #### Products Page with India (clickable filters and bookmarks) 
 
-![Products](https://app.powerbi.com/reportEmbed?reportId=66b34816-003e-4534-a67b-e2d7fc633b7a)
+![Products](Screenshot 2025-03-28 141451.jpg)
